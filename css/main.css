@@ -1,0 +1,10 @@
+div a {
+  text-decoration: none;
+  color: blue;
+}
+.nav-spacing {
+  margin-left: 10px;
+}
+.nav-menu {
+  text-align: right;
+}
