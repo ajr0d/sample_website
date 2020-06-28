@@ -3,8 +3,37 @@ div a {
   color: blue;
 }
 .nav-spacing {
-  margin-left: 10px;
+  margin: 0 0 0 10px;
 }
 .nav-menu {
   text-align: right;
+}
+.image-link {
+  text-decoration: none;
+}
+.lincon-quote {
+  padding: 2px 20px; background: #f3f3f3;
+}
+
+.mobydick-header {
+  text-align: center; margin: 0 0 80px;
+}
+.mobydick-image {
+  float: left; margin: 0 40px 0 0;
+}
+.sperm-whale-image {
+  display: block; margin: 0 auto;
+}
+.mobydick-div {
+  width: 500px; margin: 20px auto; padding: 30px; background-color: #fafafa;
+}
+
+.mobydick-opening {
+  font-style: italic; font-size: 20px;
+}
+.ishmael {
+  font-style: normal; font-size: 24px; font-weight: bold; color: #ff0000;
+}
+td {
+  padding: 10px;
 }
